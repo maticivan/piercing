@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Computer-assisted proof of a lower bound for piercing the chessboard"
+abstract: "Verifier for the computer-assisted part (Theorem 3.2) of the paper 'An improved lower bound for piercing the chessboard by lines' by Ivan Matić and Radoš Radoičić. It proves, in exact integer arithmetic, the statements (V1), (V2), (V3) of Section 4 for the polynomial W_14."
+authors:
+  - family-names: "Matic"
+    given-names: "Ivan"
+    affiliation: "Baruch College, City University of New York"
+  - family-names: "Radoicic"
+    given-names: "Rados"
+    affiliation: "Baruch College, City University of New York"
+license: MIT
+repository-code: "https://github.com/maticivan/piercing"
+version: "1.0.0"
+date-released: "2026-11-15"
